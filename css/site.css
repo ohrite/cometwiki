@@ -1,0 +1,30 @@
+#content[contentEditable="true"] {
+  color: #911;
+  background-color: #f8f8f8;
+}
+
+.span-23.box {
+  background: -webkit-gradient(linear, left top, left bottom, from(#00abeb), to(#fff), color-stop(0.55, #fff), color-stop(0.55, #66cc00));
+}
+
+.span-23.box h1 {
+  text-shadow: 0 2px 3px #aaa;
+}
+
+.span-17.box {
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff), color-stop(0.15, #ddd), color-stop(0.25, #f8f8f8));
+}
+
+.span-17.box h2 {
+  text-shadow: 0 1px 2px #fff;
+}
+
+.control-box {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.control-box > span {
+  display: inline-block;
+  margin: 0 10px;
+}
